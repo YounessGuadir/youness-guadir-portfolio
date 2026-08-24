@@ -322,7 +322,7 @@ export default function Home() {
           </p>
           <div className="hero-actions">
             <a className="button button-acid" href="#projects">Explorer mes projets <span>↘</span></a>
-            <a className="button button-ghost" href={asset("Youness-Guadir-CV.pdf")} download>CV / PDF <span>↓</span></a>
+            <a className="button button-ghost" href={asset("Youness-Guadir-CV2.pdf")} download>CV / PDF <span>↓</span></a>
           </div>
         </div>
 
